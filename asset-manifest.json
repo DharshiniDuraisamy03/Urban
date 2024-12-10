@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Urban/static/css/main.507e56d7.css",
+    "main.js": "/Urban/static/js/main.bdfcbffc.js",
+    "static/js/453.ed3810f9.chunk.js": "/Urban/static/js/453.ed3810f9.chunk.js",
+    "static/media/cargo.svg": "/Urban/static/media/cargo.a5ae83fe00f1755449cbca0ee34e6180.svg",
+    "static/media/tshirts.svg": "/Urban/static/media/tshirts.155dd3e38381419a23e995b39baf5478.svg",
+    "static/media/cotton.svg": "/Urban/static/media/cotton.cb8c033fe41a5d64bd4d91b5df17990f.svg",
+    "static/media/regularjeans.svg": "/Urban/static/media/regularjeans.4cfe25cf8e2806661e31150929e8f067.svg",
+    "static/media/casualshirts.svg": "/Urban/static/media/casualshirts.fd624ff08f2ae514f12f60abdc29bfd2.svg",
+    "static/media/shoes.svg": "/Urban/static/media/shoes.24c66e3fdea6d46aaf1cfc9286fc3552.svg",
+    "static/media/fitjeans.svg": "/Urban/static/media/fitjeans.8121a467df3ec70f395d998eac0d3076.svg",
+    "static/media/shirts.svg": "/Urban/static/media/shirts.64848ade2b742695e13fd931e3d7b70f.svg",
+    "static/media/landing.svg": "/Urban/static/media/landing.a3fff8b496ecec50ba9a275369398448.svg",
+    "static/media/lehenga.svg": "/Urban/static/media/lehenga.ffcdbb94262dac8ca0c87c411e382446.svg",
+    "static/media/sweatshirt.svg": "/Urban/static/media/sweatshirt.288f486887bbe3ed30b4f37e217b656e.svg",
+    "static/media/footwear.svg": "/Urban/static/media/footwear.0655618cdbabb6dd0c3fbb0902ea043b.svg",
+    "static/media/topbrand.svg": "/Urban/static/media/topbrand.2754ff7c9ff9e48b7d1cab54f4ed3e5e.svg",
+    "static/media/profile.svg": "/Urban/static/media/profile.41fd84f75cfd417704cd55171c8210d5.svg",
+    "static/media/kurthasets.svg": "/Urban/static/media/kurthasets.1c8207791005e409c7f86d6b3ac34074.svg",
+    "static/media/logo.svg": "/Urban/static/media/logo.3b87316496701192907d0d7d7355c94d.svg",
+    "index.html": "/Urban/index.html",
+    "main.507e56d7.css.map": "/Urban/static/css/main.507e56d7.css.map",
+    "main.bdfcbffc.js.map": "/Urban/static/js/main.bdfcbffc.js.map",
+    "453.ed3810f9.chunk.js.map": "/Urban/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507e56d7.css",
+    "static/js/main.bdfcbffc.js"
+  ]
+}
